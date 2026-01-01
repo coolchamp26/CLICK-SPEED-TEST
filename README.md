@@ -18,17 +18,13 @@ Built purely for fun, practice, and improving reaction speed.
 
 ### 📊 Accurate CPS Calculation
 - CPS = Total Clicks / Test Duration
-- Rounded to 2 decimal places
+- Rounded to 1 decimal places
 
 ### 🏆 Performance Rating System
 - 🐢 **Slow** (0–4 CPS)
 - 🙂 **Average** (4–6 CPS)
 - ⚡ **Fast** (6–8 CPS)
 - 🚀 **Pro Clicker** (8+ CPS)
-
-### 🔁 Instant Retake
-- Restart test anytime
-- Switch duration after completion
 
 ### 💾 Best Score Tracking
 - Highest CPS stored locally using `localStorage`
@@ -54,14 +50,6 @@ Built purely for fun, practice, and improving reaction speed.
 - **Storage:** Browser `localStorage`
 - **Backend:** None (100% client-side)
 
-## 🎨 UI & Design
-
-- Clean, minimal layout
-- Large clickable area
-- Smooth animations
-- Modern typography
-- Optional dark mode support
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -78,7 +66,5 @@ Built purely for fun, practice, and improving reaction speed.
 ## ⭐ Show Your Support
 
 Give a ⭐️ if you like this project!
-
----
 
 **Happy Clicking!** 🖱️⚡
